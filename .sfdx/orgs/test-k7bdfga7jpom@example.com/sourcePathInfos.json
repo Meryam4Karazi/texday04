@@ -1,0 +1,155 @@
+[
+    [
+        "/Users/meryamkarazi/Documents/Dev/texday04/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/meryamkarazi/Documents/Dev/texday04/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1555589928860,
+            "changeTime": 1555589928860,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/meryamkarazi/Documents/Dev/texday04/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/meryamkarazi/Documents/Dev/texday04/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1555589928860,
+            "changeTime": 1555589928860,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meryamkarazi/Documents/Dev/texday04/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meryamkarazi/Documents/Dev/texday04/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1555591259670,
+            "changeTime": 1555591259670,
+            "contentHash": "a0030d42f6f61cf8bafda6dd54980991bb2dd1b7"
+        }
+    ],
+    [
+        "/Users/meryamkarazi/Documents/Dev/texday04/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/meryamkarazi/Documents/Dev/texday04/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1555589928861,
+            "changeTime": 1555589928861,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meryamkarazi/Documents/Dev/texday04/force-app/main/default/lwc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/meryamkarazi/Documents/Dev/texday04/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1555589937074,
+            "changeTime": 1555589937074,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meryamkarazi/Documents/Dev/texday04",
+        {
+            "state": "n",
+            "sourcePath": "/Users/meryamkarazi/Documents/Dev/texday04",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1555590169902,
+            "changeTime": 1555590169902,
+            "contentHash": "4590ded80f33c6cef91e22f8f96db6d1d7c1c6fa",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/meryamkarazi/Documents/Dev/texday04/force-app/main/default/objects/TexdayTest__c/TexdayTest__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meryamkarazi/Documents/Dev/texday04/force-app/main/default/objects/TexdayTest__c/TexdayTest__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2104,
+            "modifiedTime": 1555591259664,
+            "changeTime": 1555591259664,
+            "contentHash": "87932c5f7fb83064c1c4a3fb83a29a0b5f7d3fe4"
+        }
+    ],
+    [
+        "/Users/meryamkarazi/Documents/Dev/texday04/force-app/main/default/layouts/TexdayTest__c-TexdayTest Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meryamkarazi/Documents/Dev/texday04/force-app/main/default/layouts/TexdayTest__c-TexdayTest Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1555591259671,
+            "changeTime": 1555591259671,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+        }
+    ],
+    [
+        "/Users/meryamkarazi/Documents/Dev/texday04/force-app/main/default/objects/TexdayTest__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meryamkarazi/Documents/Dev/texday04/force-app/main/default/objects/TexdayTest__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1555591259664,
+            "changeTime": 1555591259664,
+            "contentHash": "aa864f74a1e468aeae15baee08595b641b971bfa"
+        }
+    ],
+    [
+        "/Users/meryamkarazi/Documents/Dev/texday04/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meryamkarazi/Documents/Dev/texday04/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1555591259661,
+            "changeTime": 1555591259661,
+            "contentHash": "0f10170c7e2be4668aa268fa19d7aa185b665eb6"
+        }
+    ],
+    [
+        "/Users/meryamkarazi/Documents/Dev/texday04/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/meryamkarazi/Documents/Dev/texday04/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1555591259671,
+            "changeTime": 1555591259671,
+            "contentHash": "238264ce7df32260e25060a2f6e34be4bd04c70b"
+        }
+    ]
+]
